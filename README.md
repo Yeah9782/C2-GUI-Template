@@ -6,7 +6,7 @@ This project is an example of a C2 GUI coded in C++ using native Win32 API. I un
 
 # Acknowledgements
 
-* Thanks to [Gh0st RAT](https://github.com/sin5678/gh0st). I personally love this RAT. Has a lot of great stuff to learn from and lean about.
+* Thanks to [Gh0st RAT](https://github.com/sin5678/gh0st). I personally love this RAT. Contains a lot of great code to learn from and lean about.
 * Thanks to [Quasar RAT](https://github.com/quasar/Quasar). This was great for getting ideas for a C2.
 * Thanks goes to [@Jackson_T](https://twitter.com/Jackson_T) and his great tool [TelemetrySourcerer](https://github.com/jthuraisamy/TelemetrySourcerer). His code was great for learning about creating a GUI using Win32 API.
 * Thanks to Nir Sofer and his [iconsext](https://www.nirsoft.net/utils/iconsext.html) software (IconsExtract). This software is perfect when working with icons, highly recommend.
