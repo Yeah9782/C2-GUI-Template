@@ -1,6 +1,6 @@
 # C2 GUI Template
 
-This project is an example of a C2 GUI coded in C++. I understand a lot more functionality can be added and I plan on adding more in the future. 
+This project is an example of a C2 GUI coded in C++ using native Win32 API. I understand a lot more functionality can be added and I plan on adding more in the future. 
 
 ![C2-GUI-Template](https://user-images.githubusercontent.com/91508682/136109454-10e74874-ecdf-49f3-8c08-ebfa946529ad.PNG)
 
