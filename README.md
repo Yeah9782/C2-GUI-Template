@@ -8,7 +8,7 @@ This project is an example of a C2 GUI coded in C++ using Win32 API. I understan
 
 * Thanks to [Gh0st RAT](https://github.com/sin5678/gh0st). I personally love this RAT. Contains a lot of great code to learn from.
 * Thanks to [Quasar RAT](https://github.com/quasar/Quasar). Contains code for learning about GUIs and has popular C2 features.
-* Thanks goes to [@Jackson_T](https://twitter.com/Jackson_T) and his great tool [TelemetrySourcerer](https://github.com/jthuraisamy/TelemetrySourcerer). His code was great for learning about creating a GUI using Win32 API. Furthermore, check it out if you wanna learn about Kernel-mode callbakcs, User-mode hooking, and ETW (Event tracing for Windows) utilized by EDRs.
+* Thanks goes to [@Jackson_T](https://twitter.com/Jackson_T) and his great tool [TelemetrySourcerer](https://github.com/jthuraisamy/TelemetrySourcerer). His code was great for learning about creating a GUI using Win32 API. Furthermore, check it out if you wanna learn about Kernel-mode Callbakcs, User-mode Hooks, and ETW (Event Tracing for Windows) utilized by EDRs.
 * Thanks to Nir Sofer and his [iconsext](https://www.nirsoft.net/utils/iconsext.html) software (IconsExtract). This software is perfect when working with icons, highly recommend.
 
 # Notice
