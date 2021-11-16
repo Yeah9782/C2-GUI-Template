@@ -13,3 +13,5 @@ This project is an example of a C2 GUI coded in C++ using Win32 API. I understan
 
 # Notice
 No network functionality is included, this is only a template to refrenece if you want to make your own C2 GUI or learn about GUIs in general. I am currently trying to implement OpenSSL in both the server and client projects I am working on. If I am able to implement OpenSSL I will update the repositoy to include both the server and client.  
+
+"Nobody praying for you when you winning, don't forget it" -Drake
